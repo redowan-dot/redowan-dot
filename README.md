@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" alt="Rewan Ahmed Cover" width="100%"/>
+  <img src="cover.png" alt="Rewan Ahmed Cover" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Rewan Ahmed 👋</h1>
@@ -21,9 +21,26 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=redowan-dot&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/redowan-dot?label=Followers&style=flat-square&color=38BDF8" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:38BDF8&height=100&section=header" />
+</p>
+
 ---
 
 ### 🚀 About Me
+
+```yaml
+Name: Rewan Ahmed
+Field: Computer Science and Engineering
+Role: Frontend Developer
+Focus: Clean Code | Problem Solver | Always Learning
+Status: Open to Opportunities 🟢
+```
 
 - 🎓 Studying **Computer Science and Engineering**
 - 💻 Currently working as a **Frontend Developer**
@@ -46,7 +63,26 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+---
+
+### 🗺️ My Learning Roadmap
+
+```mermaid
+graph LR
+    A[HTML / CSS / JS] --> B[TypeScript]
+    B --> C[React]
+    C --> D[Backend - Node/Express]
+    D --> E[Full Stack Projects]
+    style A fill:#38BDF8,stroke:#0A66C2,color:#000
+    style B fill:#38BDF8,stroke:#0A66C2,color:#000
+    style C fill:#38BDF8,stroke:#0A66C2,color:#000
+    style D fill:#7C3AED,stroke:#38BDF8,color:#fff
+    style E fill:#7C3AED,stroke:#38BDF8,color:#fff
+```
 
 ---
 
@@ -56,44 +92,4 @@
 |------|--------|
 | Frontend Development (HTML, CSS, JS, TS, React) | ✅ Working professionally |
 | Problem Solving (C / C++) | ✅ Actively practicing |
-| Backend Development | 🌱 Currently learning |
-| Full Stack Development | 🌱 Currently learning |
-| Open to Opportunities | 🟢 Yes |
-
----
-
-### 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rewan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redowan-dot&theme=tokyonight&hide_border=true" alt="Rewan's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redowan-dot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redowan-dot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/redowan-ahmed-604610418/">
-    <img src="https://img.shields.io/badge/-Rewan%20Ahmed-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:redowan12521126@gmail.com">
-    <img src="https://img.shields.io/badge/-redowan12521126%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
-</p>
+| Backend Development | 🌱 Currently learning
