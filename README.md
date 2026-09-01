@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cover.png" alt="Rewan Ahmed Cover" width="100%"/>
+</p>
+
 <h1 align="center">Hi there, I'm Rewan Ahmed 👋</h1>
 <h3 align="center">Computer Science & Engineering Student | Frontend Developer</h3>
 
@@ -61,12 +65,12 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rewan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rewan's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redowan-dot&theme=tokyonight&hide_border=true" alt="Rewan's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
