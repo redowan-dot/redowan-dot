@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=redowan-dot&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/redowan-dot?label=Followers&style=flat-square&color=38BDF8" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work" />
 </p>
 
 <p align="center">
@@ -67,6 +68,15 @@ Status: Open to Opportunities 🟢
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+#### 📈 Skill Proficiency
+
+`HTML/CSS` ████████████████████ 90%
+`JavaScript` █████████████████░░░ 85%
+`TypeScript` ███████████████░░░░░ 75%
+`React` ██████████████░░░░░░ 70%
+`C / C++` █████████████████░░░ 85%
+`Backend (Node/Express)` ██████░░░░░░░░░░░░░░ 30% *(learning)*
+
 ---
 
 ### 🗺️ My Learning Roadmap
@@ -92,4 +102,88 @@ graph LR
 |------|--------|
 | Frontend Development (HTML, CSS, JS, TS, React) | ✅ Working professionally |
 | Problem Solving (C / C++) | ✅ Actively practicing |
-| Backend Development | 🌱 Currently learning
+| Backend Development | 🌱 Currently learning |
+| Full Stack Development | 🌱 Currently learning |
+| Open to Opportunities | 🟢 Yes |
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/redowan-dot?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 🔧 `REPO-NAME-1` ও `REPO-NAME-2` জায়গায় আপনার আসল repository নাম বসান
+
+---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rewan's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redowan-dot&theme=tokyonight&hide_border=true" alt="Rewan's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+#### 🔥 Contribution Continuity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redowan-dot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<!--START_SECTION:snake-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/redowan-dot/redowan-dot/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+<!--END_SECTION:snake-->
+
+> 🐍 উপরের Snake animation দেখতে হলে GitHub Action সেটআপ করতে হবে — নিচে "Snake সেটআপ" অংশে ধাপগুলো দেওয়া আছে।
+
+#### ⚡ Performance Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars&custom_title=Coding%20Performance" alt="Performance Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redowan-dot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💬 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/redowan-ahmed-604610418/">
+    <img src="https://img.shields.io/badge/-Rewan%20Ahmed-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:redowan12521126@gmail.com">
+    <img src="https://img.shields.io/badge/-redowan12521126%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/redowan-dot">
+    <img src="https://img.shields.io/badge/-redowan--dot-181717?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e1b4b&height=100&section=footer" />
+</p>
