@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Rewan Ahmed Cover" width="100%"/>
+  <img src="cover.png" alt="Redowan Ahmed Cover" width="100%"/>
 </p>
 
 <h1 align="center">Rewan Ahmed</h1>
