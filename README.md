@@ -2,7 +2,7 @@
   <img src="cover.png" alt="Redowan Ahmed Cover" width="100%"/>
 </p>
 
-<h1 align="center">Rewan Ahmed</h1>
+<h1 align="center">Redowan Ahmed</h1>
 <h3 align="center">🎓 Computer Science and Engineering Student &nbsp;|&nbsp; 💻 Frontend Developer</h3>
 
 <p align="center">
