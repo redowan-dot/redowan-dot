@@ -169,9 +169,6 @@ graph LR
 
 #### 🔥 Contribution Continuity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redowan-dot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 <!--START_SECTION:snake-->
 <p align="center">
