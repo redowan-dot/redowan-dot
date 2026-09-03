@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  📍 <b>Barishal_Bangladesh</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
+  📍 <b>YOUR_LOCATION_HERE</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
 </p>
 
 <p align="center">
@@ -39,10 +39,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a **Computer Science and Engineering student** and a passionate **Frontend Developer**. I build user-friendly and responsive web applications using **HTML, CSS, JavaScript, TypeScript, and React**. Alongside frontend development, I regularly practice problem-solving with **C and C++** to strengthen my programming and logical thinking skills.
-
-Currently, I am learning **Backend and Full Stack Development** with the goal of building complete, end-to-end products in the future. I am passionate about writing **clean, maintainable code** and continuously learning new technologies to improve my skills and stay up to date with the evolving world of web development.
-
+আমি একজন Computer Science and Engineering-এর শিক্ষার্থী এবং একজন **Frontend Developer**। আমি **HTML, CSS, JavaScript, TypeScript ও React** দিয়ে ইউজার-ফ্রেন্ডলি ও রেস্পন্সিভ ওয়েব অ্যাপ্লিকেশন তৈরি করি। এর পাশাপাশি **C ও C++** দিয়ে নিয়মিত প্রবলেম সলভিং প্র্যাকটিস করি। বর্তমানে আমি **Backend ও Full Stack Development** শিখছি যাতে ভবিষ্যতে end-to-end প্রোডাক্ট তৈরি করতে পারি। ক্লিন কোড লেখা এবং নতুন টেকনোলোজি শেখার প্রতি আমার আগ্রহ সবসময় থাকে।
 
 ### 🔭 What I'm Currently Doing
 
@@ -103,6 +100,15 @@ Currently, I am learning **Backend and Full Stack Development** with the goal of
 </tr>
 </table>
 
+#### 📈 Skill Proficiency
+
+`HTML/CSS` ████████████████████ 90%
+`JavaScript` █████████████████░░░ 85%
+`TypeScript` ███████████████░░░░░ 75%
+`React` ██████████████░░░░░░ 70%
+`C / C++` █████████████████░░░ 85%
+`Backend (Node/Express)` ██████░░░░░░░░░░░░░░ 30% *(learning)*
+
 ---
 
 ## 🗺️ Learning Roadmap
@@ -122,24 +128,15 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🎯 What I'm Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rewan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redowan-dot&theme=tokyonight&hide_border=true" alt="Rewan's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redowan-dot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redowan-dot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+| Area | Status |
+|------|--------|
+| Frontend Development (HTML, CSS, JS, TS, React) | ✅ Working professionally |
+| Problem Solving (C / C++) | ✅ Actively practicing |
+| Backend Development | 🌱 Currently learning |
+| Full Stack Development | 🌱 Currently learning |
+| Open to Opportunities | 🟢 Yes |
 
 ---
 
@@ -154,6 +151,49 @@ graph LR
   <a href="https://github.com/redowan-dot/REPO-NAME-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rewan's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redowan-dot&theme=tokyonight&hide_border=true" alt="Rewan's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+#### 🔥 Contribution Continuity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redowan-dot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<!--START_SECTION:snake-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/redowan-dot/redowan-dot/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+<!--END_SECTION:snake-->
+
+#### ⚡ Performance Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redowan-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars&custom_title=Coding%20Performance" alt="Performance Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redowan-dot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
