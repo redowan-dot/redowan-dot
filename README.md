@@ -148,10 +148,10 @@ graph LR
 > নিচে আপনার ২টা pinned repository-র জন্য জায়গা রাখা হলো। `REPO-NAME-1`, `REPO-NAME-2` এর জায়গায় আসল repo নাম বসান।
 
 <p align="center">
-  <a href="https://github.com/redowan-dot/coffee-shop">
+  <a href="https://github.com/redowan-dot/REPO-coffee-shop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/redowan-dot/Nature-s-Platter">
+  <a href="https://github.com/redowan-dot/Repo-Nature-s-Platter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
