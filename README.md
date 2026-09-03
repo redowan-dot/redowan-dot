@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  📍 <b>YOUR_LOCATION_HERE</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
+  📍 <b>Barishal_Bangladesh</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
 </p>
 
 <p align="center">
@@ -39,7 +39,10 @@
 
 ## 🙋‍♂️ About Me
 
-আমি একজন Computer Science and Engineering-এর শিক্ষার্থী এবং একজন **Frontend Developer**। আমি **HTML, CSS, JavaScript, TypeScript ও React** দিয়ে ইউজার-ফ্রেন্ডলি ও রেস্পন্সিভ ওয়েব অ্যাপ্লিকেশন তৈরি করি। এর পাশাপাশি **C ও C++** দিয়ে নিয়মিত প্রবলেম সলভিং প্র্যাকটিস করি। বর্তমানে আমি **Backend ও Full Stack Development** শিখছি যাতে ভবিষ্যতে end-to-end প্রোডাক্ট তৈরি করতে পারি। ক্লিন কোড লেখা এবং নতুন টেকনোলোজি শেখার প্রতি আমার আগ্রহ সবসময় থাকে।
+I am a **Computer Science and Engineering student** and a passionate **Frontend Developer**. I build user-friendly and responsive web applications using **HTML, CSS, JavaScript, TypeScript, and React**. Alongside frontend development, I regularly practice problem-solving with **C and C++** to strengthen my programming and logical thinking skills.
+
+Currently, I am learning **Backend and Full Stack Development** with the goal of building complete, end-to-end products in the future. I am passionate about writing **clean, maintainable code** and continuously learning new technologies to improve my skills and stay up to date with the evolving world of web development.
+
 
 ### 🔭 What I'm Currently Doing
 
@@ -145,10 +148,10 @@ graph LR
 > নিচে আপনার ২টা pinned repository-র জন্য জায়গা রাখা হলো। `REPO-NAME-1`, `REPO-NAME-2` এর জায়গায় আসল repo নাম বসান।
 
 <p align="center">
-  <a href="https://github.com/redowan-dot/REPO-NAME-1">
+  <a href="https://github.com/redowan-dot/coffee-shop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/redowan-dot/REPO-NAME-2">
+  <a href="https://github.com/redowan-dot/Nature-s-Platter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=redowan-dot&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
