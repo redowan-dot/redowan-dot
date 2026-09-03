@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  📍 <b>YOUR_LOCATION_HERE</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
+  📍 <b>Barishal_Bangladesh</b> &nbsp;|&nbsp; 📧 <b>redowan12521126@gmail.com</b>
 </p>
 
 <p align="center">
